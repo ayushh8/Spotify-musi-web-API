@@ -1,1 +1,1 @@
-# Spotify-musi-web-API
+# Spotify-music-web-API
